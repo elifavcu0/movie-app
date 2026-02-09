@@ -1,3 +1,4 @@
+// Deneme için hazır veriler
 export const movie_list = [
   {
     id: 1,
